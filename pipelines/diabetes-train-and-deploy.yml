@@ -1,7 +1,7 @@
 variables:
   ml-ws-connection: 'alt-rox-test-ws-connection' # Workspace Service Connection name
-  ml-ws: 'aml-mlops-AML-RG' # AML Workspace name
-  ml-rg: 'aml-mlops-RG' # AML resource Group name
+  ml-ws: 'alt-mlops-AML-RG' # AML Workspace name
+  ml-rg: 'alt-mlops-RG' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
   ml-exp: 'exp-test' # Experiment name
