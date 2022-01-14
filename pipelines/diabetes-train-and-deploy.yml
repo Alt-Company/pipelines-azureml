@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'alt-rox-test-ws-connection' # Workspace Service Connection name
+  ml-ws-connection: 'alt-aml-workspace-connection' # Workspace Service Connection name
   ml-ws: 'alt-mlops-AML-RG' # AML Workspace name
   ml-rg: 'alt-mlops-RG' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
